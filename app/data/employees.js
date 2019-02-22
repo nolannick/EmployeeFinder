@@ -48,6 +48,54 @@ var employees = [
             5,
             5
         ]
+    },
+    {
+        name: "Johnny B. Goode",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        scores: [
+            2,
+            2,
+            5,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            5
+        ]
+    },
+    {
+        name: "Tommy Bahama",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        scores: [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            5
+        ]
+    },
+    {
+        name: "Joleana Jimenez",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        scores: [
+            5,
+            5,
+            5,
+            5,
+            4,
+            1,
+            3,
+            2,
+            2,
+            5
+        ]
     }
 ];
 

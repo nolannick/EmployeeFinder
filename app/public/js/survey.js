@@ -44,8 +44,7 @@ $(function () {
                 $('#q9').val(),
                 $('#q10').val()];
 
-            console.log(arrayResponse);
-            console.log($('#q1').val());
+            // console.log(arrayResponse);
 
             let surveyArray = {
                 name: $('#name').val().trim(),
